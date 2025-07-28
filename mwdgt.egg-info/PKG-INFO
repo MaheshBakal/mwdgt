@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: mwdgt
+Version: 0.1
+Summary: MaheshWindDataGettingThing: Extract and interpolate MERRA-2 wind data.
+Author: Mahesh Bakal
+Requires-Dist: xarray
+Requires-Dist: numpy
+Requires-Dist: h5py
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

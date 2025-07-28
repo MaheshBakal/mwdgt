@@ -1,0 +1,3 @@
+xarray
+numpy
+h5py

@@ -1,0 +1,10 @@
+README.md
+setup.py
+mwdgt/__init__.py
+mwdgt/core.py
+mwdgt.egg-info/PKG-INFO
+mwdgt.egg-info/SOURCES.txt
+mwdgt.egg-info/dependency_links.txt
+mwdgt.egg-info/requires.txt
+mwdgt.egg-info/top_level.txt
+tests/test_core.py
