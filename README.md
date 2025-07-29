@@ -1,0 +1,1 @@
+MaheshWindDataGettingThing (mwdgt) is a Python package for extracting and interpolating MERRA-2 wind data at custom locations over a specified date range. It is designed to automate the retrieval of gridded wind data and provide time series of wind components (U, V) 
